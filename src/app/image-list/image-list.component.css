@@ -1,0 +1,37 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    padding: 0 20px;
+    z-index: 30;
+    width: 100%;
+    max-height: 100%;
+    background: #222;
+    color: #fff;
+}
+
+.search{
+    border: 15%;;
+}
+
+.image-container{
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 100px;
+    max-width: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+}
+
+.image-container img{
+    
+    max-width: 500px;
+}
+
+div.container {
+    text-align: center;
+    padding: 10px 20px;
+  }
+
+p{
+    font-weight: bold;
+}
